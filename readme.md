@@ -35,6 +35,7 @@ AdMaster 精硕科技是中国领先的数据解决方案提供商，主要专�
 
 ### ⾦数据
 [金数据](https://jinshuju.net/)是人人可用的在线表单工具，帮助用户收集和管理日常工作中的数据，提升工作效率。
+
 **后端技术栈:**  
 
 Ruby, Rails, MongoDB, Postgres SQL, Redis, Sidekiq, unicorn
@@ -121,11 +122,12 @@ Ruby1.9.2 ，Rails 3, Mysql, Redis， Resque
 
 **前端技术**： Bootstrap ，JQuery
 
-####SinaGeoIP (http://rubygems.org/gems/sina_geoip)
+#### SinaGeoIP (http://rubygems.org/gems/sina_geoip)
+
 一个输入IP获取省市地址的 gem 包，采用sina 的 [api](http://int.dpool.sina.com.cn/iplookup/iplookup.php) 实现。
 
-## 个人技能
-### 技能
+## 技能
+### 技术
 * Ruby （Rails, Sinatra, Padrino, meta programming）
 * Java （J2EE, SSH）
 * JavaScript（jQuery,  CoffeeScript, Backbone.js, Underscore.js, vue.js）
